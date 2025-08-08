@@ -1,0 +1,12 @@
+# Don't upload your environment variables (contains API keys)
+.Renviron
+
+# R session history & data
+.Rhistory
+.RData
+
+# RStudio project user files
+.Rproj.user/
+
+# macOS Finder junk
+.DS_Store
